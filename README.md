@@ -77,3 +77,7 @@
 #Licenses
 
 >All source code is licensed under the [MIT License].
+
+---
+[HYAdonisCoding]:https://github.com/HYAdonisCoding
+[MIT License]:https://github.com/HYAdonisCoding/HYCoreAnimationStudy/blob/master/LICENSE

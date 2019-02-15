@@ -69,3 +69,11 @@
         [strongSelf startMethod];
     }];
 ```
+
+#Author
+
+>[HYAdonisCoding]
+
+#Licenses
+
+>All source code is licensed under the [MIT License].

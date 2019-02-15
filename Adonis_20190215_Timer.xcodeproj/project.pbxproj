@@ -16,6 +16,16 @@
 		7A566FFF22168C4E00E3C408 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A566FFE22168C4E00E3C408 /* main.m */; };
 		7A56700922168C4F00E3C408 /* Adonis_20190215_TimerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56700822168C4F00E3C408 /* Adonis_20190215_TimerTests.m */; };
 		7A56701422168C4F00E3C408 /* Adonis_20190215_TimerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56701322168C4F00E3C408 /* Adonis_20190215_TimerUITests.m */; };
+		7A56702322168D9300E3C408 /* HYBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56702122168D9300E3C408 /* HYBaseViewController.m */; };
+		7A5670262216908D00E3C408 /* HYHomeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A5670252216908D00E3C408 /* HYHomeTableViewController.m */; };
+		7A5670292216916E00E3C408 /* UIColor+HYSetColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A5670282216916E00E3C408 /* UIColor+HYSetColor.m */; };
+		7A56702C221691F300E3C408 /* UITableView+HYRegister.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56702A221691F300E3C408 /* UITableView+HYRegister.m */; };
+		7A56702F2216948F00E3C408 /* ThirdMethodViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56702E2216948E00E3C408 /* ThirdMethodViewController.m */; };
+		7A567032221694A000E3C408 /* FourthMethodViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A567031221694A000E3C408 /* FourthMethodViewController.m */; };
+		7A567035221694AF00E3C408 /* FirstMethodViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A567034221694AF00E3C408 /* FirstMethodViewController.m */; };
+		7A567038221694BB00E3C408 /* SecondMethodViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A567037221694BB00E3C408 /* SecondMethodViewController.m */; };
+		7A56703C2216AB7A00E3C408 /* HYProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56703B2216AB7A00E3C408 /* HYProxy.m */; };
+		7A5670402216AD8C00E3C408 /* NSTimer+CustomTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56703F2216AD8C00E3C408 /* NSTimer+CustomTimer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,26 @@
 		7A56700F22168C4F00E3C408 /* Adonis_20190215_TimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Adonis_20190215_TimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A56701322168C4F00E3C408 /* Adonis_20190215_TimerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Adonis_20190215_TimerUITests.m; sourceTree = "<group>"; };
 		7A56701522168C4F00E3C408 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A56702122168D9300E3C408 /* HYBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYBaseViewController.m; sourceTree = "<group>"; };
+		7A56702222168D9300E3C408 /* HYBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYBaseViewController.h; sourceTree = "<group>"; };
+		7A5670242216908D00E3C408 /* HYHomeTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HYHomeTableViewController.h; sourceTree = "<group>"; };
+		7A5670252216908D00E3C408 /* HYHomeTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HYHomeTableViewController.m; sourceTree = "<group>"; };
+		7A5670272216916D00E3C408 /* UIColor+HYSetColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+HYSetColor.h"; sourceTree = "<group>"; };
+		7A5670282216916E00E3C408 /* UIColor+HYSetColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+HYSetColor.m"; sourceTree = "<group>"; };
+		7A56702A221691F300E3C408 /* UITableView+HYRegister.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableView+HYRegister.m"; sourceTree = "<group>"; };
+		7A56702B221691F300E3C408 /* UITableView+HYRegister.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableView+HYRegister.h"; sourceTree = "<group>"; };
+		7A56702D2216948E00E3C408 /* ThirdMethodViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdMethodViewController.h; sourceTree = "<group>"; };
+		7A56702E2216948E00E3C408 /* ThirdMethodViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThirdMethodViewController.m; sourceTree = "<group>"; };
+		7A567030221694A000E3C408 /* FourthMethodViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FourthMethodViewController.h; sourceTree = "<group>"; };
+		7A567031221694A000E3C408 /* FourthMethodViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FourthMethodViewController.m; sourceTree = "<group>"; };
+		7A567033221694AF00E3C408 /* FirstMethodViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstMethodViewController.h; sourceTree = "<group>"; };
+		7A567034221694AF00E3C408 /* FirstMethodViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstMethodViewController.m; sourceTree = "<group>"; };
+		7A567036221694BB00E3C408 /* SecondMethodViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondMethodViewController.h; sourceTree = "<group>"; };
+		7A567037221694BB00E3C408 /* SecondMethodViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondMethodViewController.m; sourceTree = "<group>"; };
+		7A56703A2216AB7A00E3C408 /* HYProxy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HYProxy.h; sourceTree = "<group>"; };
+		7A56703B2216AB7A00E3C408 /* HYProxy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HYProxy.m; sourceTree = "<group>"; };
+		7A56703E2216AD8C00E3C408 /* NSTimer+CustomTimer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTimer+CustomTimer.h"; sourceTree = "<group>"; };
+		7A56703F2216AD8C00E3C408 /* NSTimer+CustomTimer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+CustomTimer.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +133,24 @@
 		7A566FEB22168C4D00E3C408 /* Adonis_20190215_Timer */ = {
 			isa = PBXGroup;
 			children = (
+				7A56702222168D9300E3C408 /* HYBaseViewController.h */,
+				7A56702122168D9300E3C408 /* HYBaseViewController.m */,
+				7A5670272216916D00E3C408 /* UIColor+HYSetColor.h */,
+				7A5670282216916E00E3C408 /* UIColor+HYSetColor.m */,
+				7A56702B221691F300E3C408 /* UITableView+HYRegister.h */,
+				7A56702A221691F300E3C408 /* UITableView+HYRegister.m */,
+				7A5670242216908D00E3C408 /* HYHomeTableViewController.h */,
+				7A5670252216908D00E3C408 /* HYHomeTableViewController.m */,
+				7A567033221694AF00E3C408 /* FirstMethodViewController.h */,
+				7A567034221694AF00E3C408 /* FirstMethodViewController.m */,
+				7A567036221694BB00E3C408 /* SecondMethodViewController.h */,
+				7A567037221694BB00E3C408 /* SecondMethodViewController.m */,
+				7A56702D2216948E00E3C408 /* ThirdMethodViewController.h */,
+				7A56702E2216948E00E3C408 /* ThirdMethodViewController.m */,
+				7A5670392216AB5400E3C408 /* HYProxy */,
+				7A567030221694A000E3C408 /* FourthMethodViewController.h */,
+				7A567031221694A000E3C408 /* FourthMethodViewController.m */,
+				7A56703D2216AD6C00E3C408 /* Category */,
 				7A566FEC22168C4D00E3C408 /* AppDelegate.h */,
 				7A566FED22168C4D00E3C408 /* AppDelegate.m */,
 				7A566FEF22168C4D00E3C408 /* ViewController.h */,
@@ -133,6 +181,24 @@
 				7A56701522168C4F00E3C408 /* Info.plist */,
 			);
 			path = Adonis_20190215_TimerUITests;
+			sourceTree = "<group>";
+		};
+		7A5670392216AB5400E3C408 /* HYProxy */ = {
+			isa = PBXGroup;
+			children = (
+				7A56703A2216AB7A00E3C408 /* HYProxy.h */,
+				7A56703B2216AB7A00E3C408 /* HYProxy.m */,
+			);
+			path = HYProxy;
+			sourceTree = "<group>";
+		};
+		7A56703D2216AD6C00E3C408 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				7A56703E2216AD8C00E3C408 /* NSTimer+CustomTimer.h */,
+				7A56703F2216AD8C00E3C408 /* NSTimer+CustomTimer.m */,
+			);
+			path = Category;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -266,9 +332,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A566FF722168C4D00E3C408 /* Adonis_20190215_Timer.xcdatamodeld in Sources */,
+				7A56702322168D9300E3C408 /* HYBaseViewController.m in Sources */,
 				7A566FF122168C4D00E3C408 /* ViewController.m in Sources */,
+				7A5670402216AD8C00E3C408 /* NSTimer+CustomTimer.m in Sources */,
+				7A56703C2216AB7A00E3C408 /* HYProxy.m in Sources */,
 				7A566FFF22168C4E00E3C408 /* main.m in Sources */,
+				7A567035221694AF00E3C408 /* FirstMethodViewController.m in Sources */,
 				7A566FEE22168C4D00E3C408 /* AppDelegate.m in Sources */,
+				7A56702C221691F300E3C408 /* UITableView+HYRegister.m in Sources */,
+				7A567038221694BB00E3C408 /* SecondMethodViewController.m in Sources */,
+				7A5670262216908D00E3C408 /* HYHomeTableViewController.m in Sources */,
+				7A567032221694A000E3C408 /* FourthMethodViewController.m in Sources */,
+				7A56702F2216948F00E3C408 /* ThirdMethodViewController.m in Sources */,
+				7A5670292216916E00E3C408 /* UIColor+HYSetColor.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
